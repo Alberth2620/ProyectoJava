@@ -4,6 +4,7 @@
 
 package com.mycompany.proyectojava;
 
+
 /**
  *
  * @author alber
@@ -13,6 +14,8 @@ public class ProyectoJava {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("Prueba de funcionamiento y sincronizacion con Git ");
-        System.out.println("prueba desde el celular...");
+        System.out.println("prueba desde el celular..."); 
+		System.out.println("Prueba desde del ipad.......");
+	
     }
 }
