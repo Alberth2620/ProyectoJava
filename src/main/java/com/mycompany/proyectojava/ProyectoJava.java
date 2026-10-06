@@ -15,7 +15,16 @@ public class ProyectoJava {
         System.out.println("Hello World!");
         System.out.println("Prueba de funcionamiento y sincronizacion con Git ");
         System.out.println("prueba desde el celular..."); 
-		System.out.println("Prueba desde del ipad.......");
+        System.out.println("Prueba desde del ipad.......");
+        int a=1;
+        int ab=22;
+        switch (a) {
+           
+                
+               
+            default:
+                throw new AssertionError();
+        }
 	
     }
 }
