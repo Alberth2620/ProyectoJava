@@ -18,13 +18,8 @@ public class ProyectoJava {
         System.out.println("Prueba desde del ipad.......");
         int a=1;
         int ab=22;
-        switch (a) {
-           
-                
-               
-            default:
-                throw new AssertionError();
-        }
-	
+        System.out.println("");
+        
+        
     }
 }
