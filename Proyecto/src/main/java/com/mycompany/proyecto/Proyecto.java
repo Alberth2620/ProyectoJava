@@ -14,5 +14,7 @@ public class Proyecto {
         System.out.println("Hello World!");
         System.out.println("");
         System.out.println("");
+        int num1=2;
+        System.out.println("La suma es:"+num1+1);
     }
 }
