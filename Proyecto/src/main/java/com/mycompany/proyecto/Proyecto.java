@@ -47,6 +47,7 @@ public class Proyecto {
                     break;
                      case 8:
                     JOptionPane.showMessageDialog(null, "Saliendo del sistema...");
+                         
                     break;
                 default:
                   JOptionPane.showMessageDialog(null, "Opción invalida.");
