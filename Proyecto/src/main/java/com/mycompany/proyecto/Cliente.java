@@ -10,4 +10,17 @@ package com.mycompany.proyecto;
  */
 public class Cliente {
     
+    private String id;
+    private String nombreCompleto;
+    private String numeroTelefono;
+    private String correoElectronico;
+    private String nombreUsuario;
+    private String clave;  //vacio con constructor 
+    private String estado;  // activo con constructor
+    private int tarjetaAcesso;
+    
+    
+    
+    
+    
 }

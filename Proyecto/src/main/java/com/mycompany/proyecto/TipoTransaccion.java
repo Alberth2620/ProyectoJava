@@ -9,5 +9,5 @@ package com.mycompany.proyecto;
  * @author alber
  */
 public enum TipoTransaccion {
-    
+    Deposito,Retiro,TransferenciaEnviada, TransferenciaRecibida,Compra 
 }

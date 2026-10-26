@@ -9,5 +9,5 @@ package com.mycompany.proyecto;
  * @author alber
  */
 public enum TipoCuenta {
-    
+    Corriente, Ahorros,Inversion,Planilla
 }

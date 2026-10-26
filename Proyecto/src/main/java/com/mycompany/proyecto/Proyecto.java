@@ -25,7 +25,7 @@ public class Proyecto {
             switch (opt) {
               
                      case 1:
-                    
+                         System.out.println("muestra clientes");
                     break;
                      case 2:
                     
