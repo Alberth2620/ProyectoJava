@@ -42,9 +42,14 @@ public class Proyecto {
 
                                      case 1:
                                          System.out.println("muestra clientes");
+                                         Cliente elCliente1=new Cliente();
+                                         
+                                         Cliente elCliente2=new Cliente();
+                                         
                                     break;
                                      case 2:
-
+                                          Cuenta laCuenta1= new Cuenta();
+                                          Cuenta laCuenta2= new Cuenta();
                                     break;
                                      case 3:
 
