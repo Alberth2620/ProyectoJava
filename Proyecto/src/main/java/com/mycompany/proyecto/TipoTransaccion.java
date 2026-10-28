@@ -1,13 +1,13 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Enum.java to edit this template
- */
 package com.mycompany.proyecto;
 
 /**
- *
- * @author alber
+ * Enumerado que restringe los tipos de transacciones financieras soportadas en
+ * HiperBanco.
  */
 public enum TipoTransaccion {
-    Deposito,Retiro,TransferenciaEnviada, TransferenciaRecibida,Compra 
+    Deposito,
+    Retiro,
+    Transferencia_enviada,
+    Transferencia_recibida,
+    Compra
 }
